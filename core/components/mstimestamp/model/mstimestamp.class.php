@@ -142,7 +142,7 @@ class msTimeStamp
 
                 /* @var msProduct $object */
                 $object = $this->modx->newObject('msProduct');
-                $object->set('id', 66);
+                $object->set('id', $product_id);
                 $object->clearCache();
                 
             }
