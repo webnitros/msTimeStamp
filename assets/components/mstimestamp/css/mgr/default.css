@@ -1,0 +1,23 @@
+#minishop2-product-tabs .mstimestamp_container {
+    padding-top: 3px !important;
+    margin-bottom: 7px;
+    padding-left: 20px;
+}
+
+#minishop2-product-tabs .mstimestamp_field_container {
+    margin-top: 5px;
+}
+#minishop2-product-tabs .mstimestamp_container > .x-form-item-label {
+    margin-right: 5px;
+    font-weight: normal;
+    padding-top: 0px;
+}
+
+
+#minishop2-product-tabs .mstimestamp_container > .x-form-element {
+    display: inline-block;
+}
+.mstimestamp_disabled {
+    opacity: 0.5;
+}
+.mstimestamp_disabled {display: none}
